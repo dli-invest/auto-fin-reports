@@ -7,3 +7,5 @@ To generate the notebook
 ```
 jupyter nbconvert --to notebook --execute mynotebook.ipynb
 ```
+
+Eventually switch over to papermill to generate a basic portfolio periodically
